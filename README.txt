@@ -1,0 +1,1 @@
+This is my sql code to join the tables of the 'joins-exercise' assignment for my tableau assignment.
