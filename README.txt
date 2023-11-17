@@ -1,1 +1,1 @@
-This is my sql code to join the tables of the 'joins-exercise' assignment for my tableau assignment.
+This is my Tableau assignment for NSS. I chose the 'movies' data set from our 'joins-exercise' assignment. Using SQL I used INNER JOINs to comine the multiple tables in the data set to get a mega table. I then exported the CSV and uploaded it into Excel. From there I imported the data into Tableau and created my first dashboard.
